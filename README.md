@@ -1,5 +1,5 @@
 
-### A simple  demo to push DHT values from DHT11 using ESP8266
+### A simple  demo to email readings from sensor DHT11 using ESP8266
 
 to INSTALL:
 
