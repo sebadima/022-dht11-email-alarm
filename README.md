@@ -8,4 +8,5 @@ to INSTALL:
 * start arduino IDE and load the main source  022-dht11-email-alarm.ino
 
 written using this advice from:
+
 https://arduino.stackexchange.com/questions/40411/hiding-wlan-password-when-pushing-to-github
