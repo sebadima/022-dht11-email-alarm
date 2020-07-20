@@ -99,7 +99,7 @@ void setup(){
 
   EMailSender::EMailMessage message;
   message.subject = "Inizio monitoraggio";
-  message.message = "Sto controllado la temperatura del locale XXX";
+  message.message = "Sto controllando la temperatura del locale XXX";
   EMailSender::Response resp = emailSend.send(email_destinatario, message);
 
   Serial.println("Status invio: ");
