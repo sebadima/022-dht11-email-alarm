@@ -1,5 +1,5 @@
 
-### Un programma per leggere temperatura e umidità ambientale e inviare allarmia via email
+### Un programma per leggere temperatura e umidità ambientale e inviare allarmi via email usando le librerie ESP8266WiFi
 
 per INSTALLARE:
 
@@ -40,6 +40,7 @@ Useremo il sensore **DHT11** di cui ti ripresento la **scheda tecnica** riassunt
 <br>
 Se vuoi una dritta ti suggerisco di studiare con calma questa [pagina](https://www.robotdazero.it/blog/013-arduino-adesso-in-versione-industriale/) del blog dove mostriamo un Arduino della  [Mouser](https://www.mouser.it/) con un contenitore di sicurezza a Norme Iso, indispensabile in ambienti ostici o lievemente corrosivi.
 
+<br>
 <br>
 
 ![](https://res.cloudinary.com/sebadima/image/upload/v1591736591/001/DHT22_20Design_bb_dfydiv.jpg)
@@ -107,6 +108,4 @@ Dopo pochi secondi dovresti leggere sul **monitor seriale** dell'IDE le temperat
 
 </br>
 
-Come vedi la temperatura resta stabile sui 23°C ma dopo avere tenuto il sensore tra le dita per qualche secondo sale verso i 24~25°C per poi ridiscendere lentamente.
-#### Se tutto funziona come previsto hai completato con successo la versione preliminare del circuito. Nel prossimo post vedremo come inviare un report orario delle temperature o un allarme su un normale indirizzo email.
 
