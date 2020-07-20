@@ -3,7 +3,7 @@
 
 to INSTALL:
 
-*  git clone git@github.com:sebadima/022-dht11-email-alarm.git
+* git clone git@github.com:sebadima/022-dht11-email-alarm.git
 * copy credentials_sample.h in a new file credentials.h
 * start arduino IDE and load the main source  022-dht11-email-alarm.ino
 
