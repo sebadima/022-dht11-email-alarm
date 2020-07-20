@@ -103,10 +103,13 @@ void loop() {
 
 <br> 
 Dopo pochi secondi dovresti leggere sul **monitor seriale** dell'IDE le temperature rilevate dal sensore. 
+
 </br>
-</br>
+
 ![](https://res.cloudinary.com/sebadima/image/upload/v1591976320/001/image_uak2rx.png)
+
 </br>
+
 Come vedi la temperatura resta stabile sui 23°C ma dopo avere tenuto il sensore tra le dita per qualche secondo sale verso i 24~25°C per poi ridiscendere lentamente.
 #### Se tutto funziona come previsto hai completato con successo la versione preliminare del circuito. Nel prossimo post vedremo come inviare un report orario delle temperature o un allarme su un normale indirizzo email.
 
