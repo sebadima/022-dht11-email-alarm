@@ -1,17 +1,14 @@
 
-### A simple  demo to email readings from sensor DHT11 using ESP8266
+### Un programma per leggere temperatura e umidità ambientale e inviare allarmia via email
 
-to INSTALL:
+per INSTALLARE:
 
 * git clone git@github.com:sebadima/022-dht11-email-alarm.git
-* copy credentials_sample.h in a new file credentials.h
-* start arduino IDE and load the main source  022-dht11-email-alarm.ino
+* copia il file credentials_sample.h in un nuovo file credentials.h
+* modifica i valori degli account e delle password
+* avvia l'IDE di Arduino e compila e fai l'upload del file 022-dht11-email-alarm.ino
 
-written using this advice from:
 
-https://arduino.stackexchange.com/questions/40411/hiding-wlan-password-when-pushing-to-github
-
-In un [articolo precedente](https://www.robotdazero.it/blog/018-i-migliori-sensori-di-temperatura-per-il-tuo-robot/) del nostro blog vi abbiamo presentato una rassegna dei più comuni sensori termici per Arduino e in questo post vedremo come utilizzarne uno per realizzare una stazione di monitoraggio semplice e robusta.
 Useremo il sensore **DHT11** di cui ti ripresento la **scheda tecnica** riassuntiva: 
 
 
