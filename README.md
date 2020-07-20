@@ -99,49 +99,14 @@ void loop() {
 </pre>
 
 
-<p>
-    <a href="rda0-020.ino">
-      <p>
-        <img src="https://res.cloudinary.com/sebadima/image/upload/v1583583247/001/web-slack-icon_n1ti3k.png" alt="source" style="border:px solid red;float:right;width:40px;height:40px; opacity: 0.70;">
-      </p>
-    </a>
-    <a href="https://gist.githubusercontent.com/sebadima/1f56e566001a296224cecdc20df6d6e0/raw/215fe1e0f5564dacfccc976c45edeb426202b9df/020-001.ino">
-      <p>
-        <img src="https://res.cloudinary.com/sebadima/image/upload/v1583582469/001/web-github-icon_q6ty4o.png" alt="source" style="border:px solid red;float:right;width:40px;height:40px; opacity: 0.90;">
-      </p>
-    </a>
-    <p style="color:gray; font-size: 80%;">Clicca sulla icona di <strong>Github</strong> per il codice originale oppure clicca  <br> sulla icona più a destra per scaricare il file dal nostro canale #<strong>Slack</strong> →
-    </p>
-  
-</p>
-
 ---
 
 <br> 
 Dopo pochi secondi dovresti leggere sul **monitor seriale** dell'IDE le temperature rilevate dal sensore. 
 </br>
 </br>
-![monitor seriale di Arduino con sensore di temperatura DHT11](https://res.cloudinary.com/sebadima/image/upload/v1591976320/001/image_uak2rx.png)
+![](https://res.cloudinary.com/sebadima/image/upload/v1591976320/001/image_uak2rx.png)
 </br>
 Come vedi la temperatura resta stabile sui 23°C ma dopo avere tenuto il sensore tra le dita per qualche secondo sale verso i 24~25°C per poi ridiscendere lentamente.
 #### Se tutto funziona come previsto hai completato con successo la versione preliminare del circuito. Nel prossimo post vedremo come inviare un report orario delle temperature o un allarme su un normale indirizzo email.
-
-Nel dettaglio useremo le librerie **Open Source** [Arduino SMTP-Client](https://github.com/gregington/SMTPClient) che potrai intanto studiare per impararne il funzionamento. Se ti senti in grado di usare l'IDE di Arduino con tranquillità prova a modificare il [sorgente](https://gist.githubusercontent.com/sebadima/1f56e566001a296224cecdc20df6d6e0/raw/215fe1e0f5564dacfccc976c45edeb426202b9df/020-001.ino) che ho utilizzato in questo post. 
-<br>
-<br>
-*Se hai delle proposte interessanti o dei link da sottoporre usa la sezione sottostante, puoi commentare semplicemente avendo un account Facebook*.
-<br>
-<br>
-
-
-________________________________
-
-<p style="color:blue; font-size: 75%;">Iscriviti ora alla nostra <a href="https://landing.mailerlite.com/webforms/landing/k3h6p4">newsletter</a> e dopo avere confermato la tua iscrizione troverai ogni 15 gg  nella tua mail un argomento o un progetto pratico da seguire, con la lista dei componenti e il software necessario.</p>
-<a href="https://landing.mailerlite.com/webforms/landing/k3h6p4">
-<img border="0" alt="newsletter" src="https://res.cloudinary.com/sebadima/image/upload/v1582382998/001/undefined_cbfthe.png" width="40" height="40">
-</a>
-
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v6.0&appId=1076012199108553&autoLogAppEvents=1"></script>
-<div class="fb-comments" data-href="https://www.robotdazero.it/blog/020-come-leggere-la-temperatura-ambientale-con-arduino/" data-width="" data-numposts="5"></div>
 
