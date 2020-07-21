@@ -26,7 +26,7 @@ Se vuoi evitare problemi nella configurazione del wifi e nel cablaggio ti consig
 
 Per la versione preliminare che usa il file test.ino ti serviranno:
 
-- Un Arduino Uno,
+- Una scheda  Arduino Uno,
 - Un sensore DHT11,
 - Una Breadboard,
 - Connettori vari o Jumpers.
