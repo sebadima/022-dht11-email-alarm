@@ -41,7 +41,7 @@ Per la versione preliminare ti serviranno:
 
 <br>
 <br>
-A questo punto fai copia e incolla con il programma sottostante oppure fai l'upload dello sketch test.ino, compila il tutto e invialo alla scheda.
+A questo punto fai copia e incolla del programma qua sotto oppure fai l'upload dello sketch test.ino, compila il tutto e invialo alla scheda.
 
 
 
