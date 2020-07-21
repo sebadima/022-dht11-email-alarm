@@ -9,7 +9,8 @@
 * avvia l'IDE di Arduino, carica il file 022-dht11-email-alarm.ino e fai l'upload su un ESP8266
 
 
-Useremo il sensore **DHT11** di cui ti ripresento la **scheda tecnica** riassuntiva: 
+<br>
+Il programma use il sensore **DHT11** di cui ti ripresento la **scheda tecnica** riassuntiva: 
 
 
 
