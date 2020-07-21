@@ -22,7 +22,7 @@ Il programma usa il sensore DHT11 di cui ti presento la scheda tecnica riassunti
 <br>                                                                        |
 <br>
 
-Se vuoi risparmiarti qualche problema nella configurazione del modulo Wifi e nel cablaggio ti consiglio di procedere uno step alla volta con la versione NON Wifi del progetto. Solo dopo che alimentazione, cablaggio e sensore saranno OK  dovresti passare  allo shetch finale 022-dht11-email-alarm.ino.
+Se vuoi risparmiarti qualche problema nella configurazione del modulo Wifi e nel cablaggio ti consiglio di procedere uno step alla volta, partendo con la versione NON Wifi del progetto. Solo dopo che alimentazione, cablaggio e sensore saranno OK  dovresti passare  allo shetch finale 022-dht11-email-alarm.ino.
 
 Per la versione preliminare che usa il file test.ino ti serviranno:
 
