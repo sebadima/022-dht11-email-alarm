@@ -44,8 +44,9 @@ Per iniziare ti serviranno:
 
 ![](https://res.cloudinary.com/sebadima/image/upload/v1591736591/001/DHT22_20Design_bb_dfydiv.jpg)
 
-<br><br>
-**A questo punto fai compila e fai l' upload dello sketch test.ino**.
+<br>
+<br>
+A questo punto fai copia e incolla con il programma sottostante oppure fai l'upload dello sketch test.ino, compila il tutto e invialo alla scheda.
 
 
 
