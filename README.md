@@ -10,7 +10,8 @@
 
 
 <br>
-Il programma use il sensore **DHT11** di cui ti ripresento la **scheda tecnica** riassuntiva: 
+Il programma usa il sensore **DHT11** di cui ti ripresento la **scheda tecnica** riassuntiva: 
+<br>
 
 
 
@@ -24,10 +25,10 @@ Il programma use il sensore **DHT11** di cui ti ripresento la **scheda tecnica**
 | **Frequenza campionamento**        | 1 secondo                                                                                                                                                 |
 <br>                                                                        |
 <br>
-<br>
 
-### Ti consiglio di partire con il  programma test.ino e un Arduino senza wifi. 
-A livello hardware ti serviranno:
+### Se vuoi evitare qualche problema nella configurazione del wifi e nel cablaggio ti cosigglio di procedre uno step alla volate con la versione **NON Wifi** del progetto. Solo dopo che alimentazione, cablaggio e sensore paono OK dovresti passaew allo shetch 022-dht11-email-alarm.ino. 
+
+Per iniziare ti servirann:
 
 - Un Arduino Uno,
 - Un sensore DHT11,
