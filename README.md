@@ -1,12 +1,12 @@
 
 ### Un programma per leggere temperatura e umidità ambientale e inviare allarmi via email usando le librerie ESP8266WiFi
 
-### per INSTALLARE:
+### per INSTALLARE velocemente lo sketch:
 
 * git clone git@github.com:sebadima/022-dht11-email-alarm.git
-* copia il file credentials_sample.h in un nuovo file credentials.h
+* cp (linux) COPY (windows) credentials_sample.h credentials.h
 * aggiorna il file credentials.h con i valori corretti degli account e delle password
-* avvia l'IDE di Arduino, carica il file 022-dht11-email-alarm.ino e fai l'upload
+* avvia l'IDE di Arduino, carica il file 022-dht11-email-alarm.ino e fai l'upload su un ESP8266
 
 
 Useremo il sensore **DHT11** di cui ti ripresento la **scheda tecnica** riassuntiva: 
