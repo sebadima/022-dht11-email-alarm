@@ -27,20 +27,16 @@ Useremo il sensore **DHT11** di cui ti ripresento la **scheda tecnica** riassunt
 
 ### I componenti che ci serviranno per la realizzazione:
 
-- Un [Arduino Uno](https://www.amazon.it/s?k=arduino&__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss_1), se non sai quale scegliere leggi [qui](https://www.robotdazero.it/blog/009-la-guida-definitiva-per-scegliere-il-tuo-arduino/),
-- Un sensore [DHT11](https://www.amazon.it/s?k=DHT11&__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss_2),
-- Una [Breadboard](https://www.amazon.it/s?k=breadboard+arduino&__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1NVTYI16ZUH03&sprefix=brea%2Caps%2C209&ref=nb_sb_ss_i_3_4), per approfondire leggi [qui](https://www.robotdazero.it/blog/008-iniziare-con-le-bredboard/),
-- Connettori vari o [Jumpers](https://www.amazon.it/s?k=jumper+arduino&__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss_1).
+- Un Arduino Uno,
+- Un sensore DHT11,
+- Una Breadboard,
+- Connettori vari o Jumpers.
 
 <br>
 
-> Per questo prototipo potrai usare la versione "normale" di Arduino, ma se vorrai piazzare il prodotto in ambienti "difficili" ti consiglio di proteggere la scheda con un box in plastica. 
+> Per provare il funzionamento di base del prodotto useremo la versione "normale" di Arduino, ma se vorrai piazzare il prodotto in ambienti "difficili" ti consiglio di proteggere la scheda con un box in plastica. 
 
 
-<br>
-Se vuoi una dritta ti suggerisco di studiare con calma la pagina https://www.robotdazero.it/blog/013-arduino-adesso-in-versione-industriale del blog dove mostriamo un Arduino della Mouser con un contenitore di sicurezza a Norme Iso, indispensabile in ambienti ostici o lievemente corrosivi.
-
-<br>
 <br>
 
 ![](https://res.cloudinary.com/sebadima/image/upload/v1591736591/001/DHT22_20Design_bb_dfydiv.jpg)
