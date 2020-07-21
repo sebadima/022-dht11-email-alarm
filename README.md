@@ -34,7 +34,8 @@ Useremo il sensore **DHT11** di cui ti ripresento la **scheda tecnica** riassunt
 
 <br>
 
-> Per provare il funzionamento di base del prodotto useremo la versione "normale" di Arduino, quando sarai sicuro del funzionamento di base potremo usare il file 022-dht11-email-alarm.ino. Per il momento, dunque, installiamo l'hardare e usimao un programma di prova moloto semplificato per testare il del sensore.
+> Per provare il funzionamento di base del prodotto useremo la versione "normale" di Arduino: quando sarai sicuro del funzionamento di base potremo usare il file 022-dht11-email-alarm.ino. 
+Per il momento, dunque, installiamo l'hardare e usimao un programma di prova molto semplificato per testare il del sensore.
 . 
 
 
@@ -43,7 +44,7 @@ Useremo il sensore **DHT11** di cui ti ripresento la **scheda tecnica** riassunt
 ![](https://res.cloudinary.com/sebadima/image/upload/v1591736591/001/DHT22_20Design_bb_dfydiv.jpg)
 
 <br><br>
-Per iniziare la costruzione segui il semplice schema in figura, collega alimentazione e massa e ricorda che il DHT11 deve fornire il segnale alla porta 7 di Arduino. Dai potenza solo **dopo** avere controllato tutte le connessioni e quindi collega Arduino alla porta USB del PC. A questo punto fai l' [upload](https://www.robotdazero.it/blog/004-come-installare-ide-di-arduino/) del programma:
+Per iniziare la costruzione segui il semplice schema in figura, collega alimentazione e massa e ricorda che il DHT11 deve fornire il segnale alla porta 7 di Arduino. Dai potenza solo **dopo** avere controllato tutte le connessioni e quindi collega Arduino alla porta USB del PC. A questo punto fai l' upload del programma:
 
 
 
