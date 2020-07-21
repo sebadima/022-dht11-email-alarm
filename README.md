@@ -25,7 +25,8 @@ Useremo il sensore **DHT11** di cui ti ripresento la **scheda tecnica** riassunt
 <br>
 <br>
 
-### Come partire con un programma di test e Arduino senza modulo wifi 
+### Ti consiglio di partire con un programma di test e Arduino senza modulo wifi 
+ti serviranno a livello hardware:
 
 - Un Arduino Uno,
 - Un sensore DHT11,
@@ -34,10 +35,7 @@ Useremo il sensore **DHT11** di cui ti ripresento la **scheda tecnica** riassunt
 
 <br>
 
-> Per provare il funzionamento di base del prodotto useremo la versione "normale" di Arduino: quando sarai sicuro del funzionamento di base potremo usare il file 022-dht11-email-alarm.ino. 
-Per il momento, dunque, installiamo l'hardare e usiamo un programma di prova molto semplificato per testare il funzionamento del sensore.
-. 
-
+> Per provare il funzionamento di base del prodotto useremo la versione "normale" di Arduino: quando sarai sicuro del funzionamento di base potrai usare il file definitivo 022-dht11-email-alarm.ino. 
 
 <br>
 
