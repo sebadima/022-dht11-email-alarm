@@ -5,8 +5,8 @@
 
 * git clone git@github.com:sebadima/022-dht11-email-alarm.git
 * copia il file credentials_sample.h in un nuovo file credentials.h
-* modifica dentro il file credentials.h i valori degli account e delle password
-* avvia l'IDE di Arduino, compila e fai l'upload del file 022-dht11-email-alarm.ino
+* aggiorna il file credentials.h con i valori corretti degli account e delle password
+* avvia l'IDE di Arduino, carica il file 022-dht11-email-alarm.ino e fai l'upload
 
 
 Useremo il sensore **DHT11** di cui ti ripresento la **scheda tecnica** riassuntiva: 
