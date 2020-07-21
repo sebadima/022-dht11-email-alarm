@@ -97,15 +97,15 @@ void loop() {
 
 ---
 
-<br> 
-Dopo pochi secondi dovresti leggere sul **monitor seriale** dell'IDE le temperature rilevate dal sensore. 
-A questo punto puoi usare il programma 022-dht11-email-alarm.ino e collegandolo ad un ESP8266 collegato al sensore attraverso il pin #1.
-
-</br>
 </br>
 
 ![](https://res.cloudinary.com/sebadima/image/upload/v1591976320/001/image_uak2rx.png)
 
 </br>
 
+
+<br> 
+Dopo pochi secondi dovresti leggere sul **monitor seriale** dell'IDE le temperature rilevate dal sensore. 
+A questo punto puoi usare il programma 022-dht11-email-alarm.ino e collegandolo ad un ESP8266 collegato al sensore attraverso il pin #1.
+</br>
 
