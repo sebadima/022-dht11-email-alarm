@@ -78,7 +78,7 @@ void loop() {
 
 
 <br> 
-Dopo pochi secondi dovresti leggere sul **monitor seriale** dell'IDE le temperature rilevate dal sensore. 
+Dopo pochi secondi dovresti leggere sul monitor seriale dell'IDE le temperature rilevate dal sensore. Per lanciare il monitor premi <CTRL><SHIFT>M. 
 <br> 
 A questo punto puoi usare il programma 022-dht11-email-alarm.ino e collegandolo ad un ESP8266 collegato al sensore attraverso il pin #1.
 </br>
