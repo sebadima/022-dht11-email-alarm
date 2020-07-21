@@ -10,7 +10,7 @@
 
 
 <br>
-Il programma usa il sensore DHT11 di cui ti ripresento la scheda tecnica riassuntiva: 
+Il programma usa il sensore DHT11 di cui ti presento la scheda tecnica riassuntiva: 
 <br>                                                                        |
 <br>
 
