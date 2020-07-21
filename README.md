@@ -1,5 +1,5 @@
 
-### Un programma per leggere temperatura e umidità ambientale e inviare allarmi via email usando le librerie ESP8266WiFi
+### Un programma per leggere temperatura e umidità ambientale e inviare allarmi via email usando le librerie ESP8266WiFi e il sensore DHT11/12
 
 ### per INSTALLARE velocemente lo sketch:
 
