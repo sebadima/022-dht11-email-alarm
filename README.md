@@ -35,7 +35,7 @@ Useremo il sensore **DHT11** di cui ti ripresento la **scheda tecnica** riassunt
 <br>
 
 > Per provare il funzionamento di base del prodotto useremo la versione "normale" di Arduino: quando sarai sicuro del funzionamento di base potremo usare il file 022-dht11-email-alarm.ino. 
-Per il momento, dunque, installiamo l'hardare e usimao un programma di prova molto semplificato per testare il del sensore.
+Per il momento, dunque, installiamo l'hardare e usimao un programma di prova molto semplificato per testare il funzionamento del sensore.
 . 
 
 
@@ -99,6 +99,7 @@ void loop() {
 
 <br> 
 Dopo pochi secondi dovresti leggere sul **monitor seriale** dell'IDE le temperature rilevate dal sensore. 
+A questo punto puoi usare il programma 022-dht11-email-alarm.ino e collegandolo ad un ESP8266 collegato al sensore attraverso il pin #1.
 
 </br>
 </br>
