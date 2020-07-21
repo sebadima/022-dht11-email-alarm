@@ -46,7 +46,7 @@ Per iniziare la costruzione segui il semplice schema in figura, collega alimenta
 
 
 
-### Codice del lettore di temperatura per DHT11:
+### Codice del programma di Test:
 
 <pre  class="prettyprint linenums" style="border:1px solid #d6d4d4;" >
 #include "DHT.h"
