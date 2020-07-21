@@ -25,8 +25,8 @@ Useremo il sensore **DHT11** di cui ti ripresento la **scheda tecnica** riassunt
 <br>
 <br>
 
-### Ti consiglio di partire con un programma di test e Arduino senza modulo wifi 
-ti serviranno a livello hardware:
+### Ti consiglio di partire con il  programma test.ino e un Arduino senza modulo wifi. 
+Ti serviranno a livello hardware:
 
 - Un Arduino Uno,
 - Un sensore DHT11,
