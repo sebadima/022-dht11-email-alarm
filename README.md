@@ -4,7 +4,8 @@
 ### per INSTALLARE velocemente lo sketch:
 
 * git clone git@github.com:sebadima/022-dht11-email-alarm.git
-* cp (linux) COPY (windows) credentials_sample.h credentials.h
+* (linux)   cp credentials_sample.h credentials.h
+* (windows) COPY credentials_sample.h credentials.h
 * aggiorna il file credentials.h con i valori corretti degli account e delle password
 * avvia l'IDE di Arduino, carica il file 022-dht11-email-alarm.ino e fai l'upload su un ESP8266
 
