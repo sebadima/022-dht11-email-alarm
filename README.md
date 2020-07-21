@@ -34,7 +34,8 @@ Useremo il sensore **DHT11** di cui ti ripresento la **scheda tecnica** riassunt
 
 <br>
 
-> Per provare il funzionamento di base del prodotto useremo la versione "normale" di Arduino, ma se vorrai piazzare il prodotto in ambienti "difficili" ti consiglio di proteggere la scheda con un box in plastica. 
+> Per provare il funzionamento di base del prodotto useremo la versione "normale" di Arduino, quando sarai sicuro del funzionamento di base potremo usare il file 022-dht11-email-alarm.ino. Per il momento, dunque, installiamo l'hardare e usimao un programma di prova moloto semplificato per testare il del sensore.
+. 
 
 
 <br>
