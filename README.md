@@ -29,7 +29,7 @@ Il programma usa il sensore DHT11 di cui ti ripresento la scheda tecnica riassun
 
 #### Se vuoi evitare problemi nella configurazione del wifi e nel cablaggio ti consiglio di procedere uno step alla volta con la versione NON Wifi del progetto. Solo dopo che alimentazione, cablaggio e sensore saranno OK  dovresti passare  allo finale shetch 022-dht11-email-alarm.ino. 
 
-Per iniziare ti servirann:
+Per iniziare ti serviranno:
 
 - Un Arduino Uno,
 - Un sensore DHT11,
