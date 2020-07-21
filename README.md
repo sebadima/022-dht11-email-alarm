@@ -1,7 +1,7 @@
 
 ### Un programma per leggere temperatura e umidità ambientale e inviare allarmi via email usando le librerie ESP8266WiFi
 
-per INSTALLARE:
+### per INSTALLARE:
 
 * git clone git@github.com:sebadima/022-dht11-email-alarm.git
 * copia il file credentials_sample.h in un nuovo file credentials.h
@@ -38,7 +38,7 @@ Useremo il sensore **DHT11** di cui ti ripresento la **scheda tecnica** riassunt
 
 
 <br>
-Se vuoi una dritta ti suggerisco di studiare con calma questa [pagina](https://www.robotdazero.it/blog/013-arduino-adesso-in-versione-industriale/) del blog dove mostriamo un Arduino della  [Mouser](https://www.mouser.it/) con un contenitore di sicurezza a Norme Iso, indispensabile in ambienti ostici o lievemente corrosivi.
+Se vuoi una dritta ti suggerisco di studiare con calma la pagina https://www.robotdazero.it/blog/013-arduino-adesso-in-versione-industriale del blog dove mostriamo un Arduino della Mouser con un contenitore di sicurezza a Norme Iso, indispensabile in ambienti ostici o lievemente corrosivi.
 
 <br>
 <br>
@@ -102,6 +102,7 @@ void loop() {
 <br> 
 Dopo pochi secondi dovresti leggere sul **monitor seriale** dell'IDE le temperature rilevate dal sensore. 
 
+</br>
 </br>
 
 ![](https://res.cloudinary.com/sebadima/image/upload/v1591976320/001/image_uak2rx.png)
